@@ -7,7 +7,7 @@ data:
     - groups:
       - system:masters
       rolearn: arn:aws:iam::826114294860:role/UdacityFlaskDeployCBKubectlRole
-      username: build
+      username: Admin
     - groups:
       - system:bootstrappers
       - system:nodes
